@@ -1,0 +1,702 @@
+{
+    "abeikelongbi_3": {
+        "name": "abeikelongbi_3",
+        "url": "/live2d/AzurLane/abeikelongbi_3/abeikelongbi_3.model3.json"
+    },
+    "abeikelongbi_3_hx": {
+        "name": "abeikelongbi_3_hx",
+        "url": "/live2d/AzurLane/abeikelongbi_3_hx/abeikelongbi_3_hx.model3.json"
+    },
+    "adaerbote_2": {
+        "name": "adaerbote_2",
+        "url": "/live2d/AzurLane/adaerbote_2/adaerbote_2.model3.json"
+    },
+    "aerbien_3": {
+        "name": "aerbien_3",
+        "url": "/live2d/AzurLane/aerbien_3/aerbien_3.model3.json"
+    },
+    "aersasi_2": {
+        "name": "aersasi_2",
+        "url": "/live2d/AzurLane/aersasi_2/aersasi_2.model3.json"
+    },
+    "aidang_2": {
+        "name": "aidang_2",
+        "url": "/live2d/AzurLane/aidang_2/aidang_2.model3.json"
+    },
+    "aierdeliqi_4": {
+        "name": "aierdeliqi_4",
+        "url": "/live2d/AzurLane/aierdeliqi_4/aierdeliqi_4.model3.json"
+    },
+    "aierdeliqi_5": {
+        "name": "aierdeliqi_5",
+        "url": "/live2d/AzurLane/aierdeliqi_5/aierdeliqi_5.model3.json"
+    },
+    "aijier_2": {
+        "name": "aijier_2",
+        "url": "/live2d/AzurLane/aijier_2/aijier_2.model3.json"
+    },
+    "aijier_3": {
+        "name": "aijier_3",
+        "url": "/live2d/AzurLane/aijier_3/aijier_3.model3.json"
+    },
+    "aijier_3_hx": {
+        "name": "aijier_3_hx",
+        "url": "/live2d/AzurLane/aijier_3_hx/aijier_3_hx.model3.json"
+    },
+    "ailunsamuna_2": {
+        "name": "ailunsamuna_2",
+        "url": "/live2d/AzurLane/ailunsamuna_2/ailunsamuna_2.model3.json"
+    },
+    "ailunsamuna_2_hx": {
+        "name": "ailunsamuna_2_hx",
+        "url": "/live2d/AzurLane/ailunsamuna_2_hx/ailunsamuna_2_hx.model3.json"
+    },
+    "aimierbeierding_2": {
+        "name": "aimierbeierding_2",
+        "url": "/live2d/AzurLane/aimierbeierding_2/aimierbeierding_2.model3.json"
+    },
+    "aimierbeierding_3": {
+        "name": "aimierbeierding_3",
+        "url": "/live2d/AzurLane/aimierbeierding_3/aimierbeierding_3.model3.json"
+    },
+    "aimierbeierding_3_hx": {
+        "name": "aimierbeierding_3_hx",
+        "url": "/live2d/AzurLane/aimierbeierding_3_hx/aimierbeierding_3_hx.model3.json"
+    },
+    "aimudeng_2": {
+        "name": "aimudeng_2",
+        "url": "/live2d/AzurLane/aimudeng_2/aimudeng_2.model3.json"
+    },
+    "aimudeng_2_hx": {
+        "name": "aimudeng_2_hx",
+        "url": "/live2d/AzurLane/aimudeng_2_hx/aimudeng_2_hx.model3.json"
+    },
+    "aisaikesi_4": {
+        "name": "aisaikesi_4",
+        "url": "/live2d/AzurLane/aisaikesi_4/aisaikesi_4.model3.json"
+    },
+    "ankeleiqi_2": {
+        "name": "ankeleiqi_2",
+        "url": "/live2d/AzurLane/ankeleiqi_2/ankeleiqi_2.model3.json"
+    },
+    "ankeleiqi_2_hx": {
+        "name": "ankeleiqi_2_hx",
+        "url": "/live2d/AzurLane/ankeleiqi_2_hx/ankeleiqi_2_hx.model3.json"
+    },
+    "ankeleiqi_3": {
+        "name": "ankeleiqi_3",
+        "url": "/live2d/AzurLane/ankeleiqi_3/ankeleiqi_3.model3.json"
+    },
+    "baerdimo_5": {
+        "name": "baerdimo_5",
+        "url": "/live2d/AzurLane/baerdimo_5/baerdimo_5.model3.json"
+    },
+    "baerdimo_6": {
+        "name": "baerdimo_6",
+        "url": "/live2d/AzurLane/baerdimo_6/baerdimo_6.model3.json"
+    },
+    "bailong_3": {
+        "name": "bailong_3",
+        "url": "/live2d/AzurLane/bailong_3/bailong_3.model3.json"
+    },
+    "banrenma_2": {
+        "name": "banrenma_2",
+        "url": "/live2d/AzurLane/banrenma_2/banrenma_2.model3.json"
+    },
+    "beierfasite_2": {
+        "name": "beierfasite_2",
+        "url": "/live2d/AzurLane/beierfasite_2/beierfasite_2.model3.json"
+    },
+    "beikaluolaina_2": {
+        "name": "beikaluolaina_2",
+        "url": "/live2d/AzurLane/beikaluolaina_2/beikaluolaina_2.model3.json"
+    },
+    "beikaluolaina_2_hx": {
+        "name": "beikaluolaina_2_hx",
+        "url": "/live2d/AzurLane/beikaluolaina_2_hx/beikaluolaina_2_hx.model3.json"
+    },
+    "biaoqiang": {
+        "name": "biaoqiang",
+        "url": "/live2d/AzurLane/biaoqiang/biaoqiang.model3.json"
+    },
+    "biaoqiang_3": {
+        "name": "biaoqiang_3",
+        "url": "/live2d/AzurLane/biaoqiang_3/biaoqiang_3.model3.json"
+    },
+    "bisimai_2": {
+        "name": "bisimai_2",
+        "url": "/live2d/AzurLane/bisimai_2/bisimai_2.model3.json"
+    },
+    "bola_2": {
+        "name": "bola_2",
+        "url": "/live2d/AzurLane/bola_2/bola_2.model3.json"
+    },
+    "boyixi_2": {
+        "name": "boyixi_2",
+        "url": "/live2d/AzurLane/boyixi_2/boyixi_2.model3.json"
+    },
+    "bulaimodun_2": {
+        "name": "bulaimodun_2",
+        "url": "/live2d/AzurLane/bulaimodun_2/bulaimodun_2.model3.json"
+    },
+    "bulaimodun_4": {
+        "name": "bulaimodun_4",
+        "url": "/live2d/AzurLane/bulaimodun_4/bulaimodun_4.model3.json"
+    },
+    "bulaimodun_4_hx": {
+        "name": "bulaimodun_4_hx",
+        "url": "/live2d/AzurLane/bulaimodun_4_hx/bulaimodun_4_hx.model3.json"
+    },
+    "bulaimodun_5": {
+        "name": "bulaimodun_5",
+        "url": "/live2d/AzurLane/bulaimodun_5/bulaimodun_5.model3.json"
+    },
+    "buleisite_2": {
+        "name": "buleisite_2",
+        "url": "/live2d/AzurLane/buleisite_2/buleisite_2.model3.json"
+    },
+    "chaijun_3": {
+        "name": "chaijun_3",
+        "url": "/live2d/AzurLane/chaijun_3/chaijun_3.model3.json"
+    },
+    "chaijun_4": {
+        "name": "chaijun_4",
+        "url": "/live2d/AzurLane/chaijun_4/chaijun_4.model3.json"
+    },
+    "chaijun_4_hx": {
+        "name": "chaijun_4_hx",
+        "url": "/live2d/AzurLane/chaijun_4_hx/chaijun_4_hx.model3.json"
+    },
+    "chicheng_5": {
+        "name": "chicheng_5",
+        "url": "/live2d/AzurLane/chicheng_5/chicheng_5.model3.json"
+    },
+    "chuixue_3": {
+        "name": "chuixue_3",
+        "url": "/live2d/AzurLane/chuixue_3/chuixue_3.model3.json"
+    },
+    "chuyue_2": {
+        "name": "chuyue_2",
+        "url": "/live2d/AzurLane/chuyue_2/chuyue_2.model3.json"
+    },
+    "dafeng_2": {
+        "name": "dafeng_2",
+        "url": "/live2d/AzurLane/dafeng_2/dafeng_2.model3.json"
+    },
+    "dafeng_2_hx": {
+        "name": "dafeng_2_hx",
+        "url": "/live2d/AzurLane/dafeng_2_hx/dafeng_2_hx.model3.json"
+    },
+    "dafeng_3": {
+        "name": "dafeng_3",
+        "url": "/live2d/AzurLane/dafeng_3/dafeng_3.model3.json"
+    },
+    "dafeng_4": {
+        "name": "dafeng_4",
+        "url": "/live2d/AzurLane/dafeng_4/dafeng_4.model3.json"
+    },
+    "dafeng_6": {
+        "name": "dafeng_6",
+        "url": "/live2d/AzurLane/dafeng_6/dafeng_6.model3.json"
+    },
+    "daofeng_4": {
+        "name": "daofeng_4",
+        "url": "/live2d/AzurLane/daofeng_4/daofeng_4.model3.json"
+    },
+    "daofeng_5": {
+        "name": "daofeng_5",
+        "url": "/live2d/AzurLane/daofeng_5/daofeng_5.model3.json"
+    },
+    "daofeng_5_hx": {
+        "name": "daofeng_5_hx",
+        "url": "/live2d/AzurLane/daofeng_5_hx/daofeng_5_hx.model3.json"
+    },
+    "dewenjun_2": {
+        "name": "dewenjun_2",
+        "url": "/live2d/AzurLane/dewenjun_2/dewenjun_2.model3.json"
+    },
+    "deyizhi_3": {
+        "name": "deyizhi_3",
+        "url": "/live2d/AzurLane/deyizhi_3/deyizhi_3.model3.json"
+    },
+    "dujiaoshou_4": {
+        "name": "dujiaoshou_4",
+        "url": "/live2d/AzurLane/dujiaoshou_4/dujiaoshou_4.model3.json"
+    },
+    "dujiaoshou_6": {
+        "name": "dujiaoshou_6",
+        "url": "/live2d/AzurLane/dujiaoshou_6/dujiaoshou_6.model3.json"
+    },
+    "dunkeerke_2": {
+        "name": "dunkeerke_2",
+        "url": "/live2d/AzurLane/dunkeerke_2/dunkeerke_2.model3.json"
+    },
+    "edu_3": {
+        "name": "edu_3",
+        "url": "/live2d/AzurLane/edu_3/edu_3.model3.json"
+    },
+    "edu_3_hx": {
+        "name": "edu_3_hx",
+        "url": "/live2d/AzurLane/edu_3_hx/edu_3_hx.model3.json"
+    },
+    "edu_4": {
+        "name": "edu_4",
+        "url": "/live2d/AzurLane/edu_4/edu_4.model3.json"
+    },
+    "fengyun_4": {
+        "name": "fengyun_4",
+        "url": "/live2d/AzurLane/fengyun_4/fengyun_4.model3.json"
+    },
+    "geliqiya_2": {
+        "name": "geliqiya_2",
+        "url": "/live2d/AzurLane/geliqiya_2/geliqiya_2.model3.json"
+    },
+    "genaisennao_2": {
+        "name": "genaisennao_2",
+        "url": "/live2d/AzurLane/genaisennao_2/genaisennao_2.model3.json"
+    },
+    "guandao_2": {
+        "name": "guandao_2",
+        "url": "/live2d/AzurLane/guandao_2/guandao_2.model3.json"
+    },
+    "guangrong_3": {
+        "name": "guangrong_3",
+        "url": "/live2d/AzurLane/guangrong_3/guangrong_3.model3.json"
+    },
+    "hailunna_4": {
+        "name": "hailunna_4",
+        "url": "/live2d/AzurLane/hailunna_4/hailunna_4.model3.json"
+    },
+    "heitaizi_2": {
+        "name": "heitaizi_2",
+        "url": "/live2d/AzurLane/heitaizi_2/heitaizi_2.model3.json"
+    },
+    "hemin_2": {
+        "name": "hemin_2",
+        "url": "/live2d/AzurLane/hemin_2/hemin_2.model3.json"
+    },
+    "hemin_3": {
+        "name": "hemin_3",
+        "url": "/live2d/AzurLane/hemin_3/hemin_3.model3.json"
+    },
+    "huangjiafangzhou_3": {
+        "name": "huangjiafangzhou_3",
+        "url": "/live2d/AzurLane/huangjiafangzhou_3/huangjiafangzhou_3.model3.json"
+    },
+    "huonululu_3": {
+        "name": "huonululu_3",
+        "url": "/live2d/AzurLane/huonululu_3/huonululu_3.model3.json"
+    },
+    "huonululu_5": {
+        "name": "huonululu_5",
+        "url": "/live2d/AzurLane/huonululu_5/huonululu_5.model3.json"
+    },
+    "jialisuoniye_3": {
+        "name": "jialisuoniye_3",
+        "url": "/live2d/AzurLane/jialisuoniye_3/jialisuoniye_3.model3.json"
+    },
+    "jialisuoniye_3_hx": {
+        "name": "jialisuoniye_3_hx",
+        "url": "/live2d/AzurLane/jialisuoniye_3_hx/jialisuoniye_3_hx.model3.json"
+    },
+    "jialisuoniye_4": {
+        "name": "jialisuoniye_4",
+        "url": "/live2d/AzurLane/jialisuoniye_4/jialisuoniye_4.model3.json"
+    },
+    "jianye_2": {
+        "name": "jianye_2",
+        "url": "/live2d/AzurLane/jianye_2/jianye_2.model3.json"
+    },
+    "jianye_2_hx": {
+        "name": "jianye_2_hx",
+        "url": "/live2d/AzurLane/jianye_2_hx/jianye_2_hx.model3.json"
+    },
+    "jianye_3": {
+        "name": "jianye_3",
+        "url": "/live2d/AzurLane/jianye_3/jianye_3.model3.json"
+    },
+    "jianye_4": {
+        "name": "jianye_4",
+        "url": "/live2d/AzurLane/jianye_4/jianye_4.model3.json"
+    },
+    "jiluofu_3": {
+        "name": "jiluofu_3",
+        "url": "/live2d/AzurLane/jiluofu_3/jiluofu_3.model3.json"
+    },
+    "jinluhao_2": {
+        "name": "jinluhao_2",
+        "url": "/live2d/AzurLane/jinluhao_2/jinluhao_2.model3.json"
+    },
+    "jiuyun_2": {
+        "name": "jiuyun_2",
+        "url": "/live2d/AzurLane/jiuyun_2/jiuyun_2.model3.json"
+    },
+    "junhe_4": {
+        "name": "junhe_4",
+        "url": "/live2d/AzurLane/junhe_4/junhe_4.model3.json"
+    },
+    "junhe_5": {
+        "name": "junhe_5",
+        "url": "/live2d/AzurLane/junhe_5/junhe_5.model3.json"
+    },
+    "kalangshitade_2": {
+        "name": "kalangshitade_2",
+        "url": "/live2d/AzurLane/kalangshitade_2/kalangshitade_2.model3.json"
+    },
+    "kalvbudisi_2": {
+        "name": "kalvbudisi_2",
+        "url": "/live2d/AzurLane/kalvbudisi_2/kalvbudisi_2.model3.json"
+    },
+    "kelaimengsuo_2": {
+        "name": "kelaimengsuo_2",
+        "url": "/live2d/AzurLane/kelaimengsuo_2/kelaimengsuo_2.model3.json"
+    },
+    "kelifulan_3": {
+        "name": "kelifulan_3",
+        "url": "/live2d/AzurLane/kelifulan_3/kelifulan_3.model3.json"
+    },
+    "kelifulan_8": {
+        "name": "kelifulan_8",
+        "url": "/live2d/AzurLane/kelifulan_8/kelifulan_8.model3.json"
+    },
+    "kewei_4": {
+        "name": "kewei_4",
+        "url": "/live2d/AzurLane/kewei_4/kewei_4.model3.json"
+    },
+    "kubo_2": {
+        "name": "kubo_2",
+        "url": "/live2d/AzurLane/kubo_2/kubo_2.model3.json"
+    },
+    "kuersike_2": {
+        "name": "kuersike_2",
+        "url": "/live2d/AzurLane/kuersike_2/kuersike_2.model3.json"
+    },
+    "lafei": {
+        "name": "lafei",
+        "url": "/live2d/AzurLane/lafei/lafei.model3.json"
+    },
+    "lafeiii_3": {
+        "name": "lafeiii_3",
+        "url": "/live2d/AzurLane/lafeiii_3/lafeiii_3.model3.json"
+    },
+    "lafei_4": {
+        "name": "lafei_4",
+        "url": "/live2d/AzurLane/lafei_4/lafei_4.model3.json"
+    },
+    "lingbo": {
+        "name": "lingbo",
+        "url": "/live2d/AzurLane/lingbo/lingbo.model3.json"
+    },
+    "lingbo_10": {
+        "name": "lingbo_10",
+        "url": "/live2d/AzurLane/lingbo_10/lingbo_10.model3.json"
+    },
+    "linuo_3": {
+        "name": "linuo_3",
+        "url": "/live2d/AzurLane/linuo_3/linuo_3.model3.json"
+    },
+    "linuo_3_hx": {
+        "name": "linuo_3_hx",
+        "url": "/live2d/AzurLane/linuo_3_hx/linuo_3_hx.model3.json"
+    },
+    "lisailiu_2": {
+        "name": "lisailiu_2",
+        "url": "/live2d/AzurLane/lisailiu_2/lisailiu_2.model3.json"
+    },
+    "lisailiu_3": {
+        "name": "lisailiu_3",
+        "url": "/live2d/AzurLane/lisailiu_3/lisailiu_3.model3.json"
+    },
+    "longfeng_2": {
+        "name": "longfeng_2",
+        "url": "/live2d/AzurLane/longfeng_2/longfeng_2.model3.json"
+    },
+    "longfeng_2_hx": {
+        "name": "longfeng_2_hx",
+        "url": "/live2d/AzurLane/longfeng_2_hx/longfeng_2_hx.model3.json"
+    },
+    "longwu_2": {
+        "name": "longwu_2",
+        "url": "/live2d/AzurLane/longwu_2/longwu_2.model3.json"
+    },
+    "luoen_4": {
+        "name": "luoen_4",
+        "url": "/live2d/AzurLane/luoen_4/luoen_4.model3.json"
+    },
+    "luoma_2": {
+        "name": "luoma_2",
+        "url": "/live2d/AzurLane/luoma_2/luoma_2.model3.json"
+    },
+    "lupuleixite_2": {
+        "name": "lupuleixite_2",
+        "url": "/live2d/AzurLane/lupuleixite_2/lupuleixite_2.model3.json"
+    },
+    "luyijiushi_2": {
+        "name": "luyijiushi_2",
+        "url": "/live2d/AzurLane/luyijiushi_2/luyijiushi_2.model3.json"
+    },
+    "lvzuofu_2": {
+        "name": "lvzuofu_2",
+        "url": "/live2d/AzurLane/lvzuofu_2/lvzuofu_2.model3.json"
+    },
+    "maliluosi_3_doa": {
+        "name": "maliluosi_3_doa",
+        "url": "/live2d/AzurLane/maliluosi_3_doa/maliluosi_3_doa.model3.json"
+    },
+    "mingshi": {
+        "name": "mingshi",
+        "url": "/live2d/AzurLane/mingshi/mingshi.model3.json"
+    },
+    "mojiaduoer_2": {
+        "name": "mojiaduoer_2",
+        "url": "/live2d/AzurLane/mojiaduoer_2/mojiaduoer_2.model3.json"
+    },
+    "nengdai_2": {
+        "name": "nengdai_2",
+        "url": "/live2d/AzurLane/nengdai_2/nengdai_2.model3.json"
+    },
+    "ninghai_4": {
+        "name": "ninghai_4",
+        "url": "/live2d/AzurLane/ninghai_4/ninghai_4.model3.json"
+    },
+    "ougen_5": {
+        "name": "ougen_5",
+        "url": "/live2d/AzurLane/ougen_5/ougen_5.model3.json"
+    },
+    "ougen_6": {
+        "name": "ougen_6",
+        "url": "/live2d/AzurLane/ougen_6/ougen_6.model3.json"
+    },
+    "ougen_6_hx": {
+        "name": "ougen_6_hx",
+        "url": "/live2d/AzurLane/ougen_6_hx/ougen_6_hx.model3.json"
+    },
+    "ouruola_4": {
+        "name": "ouruola_4",
+        "url": "/live2d/AzurLane/ouruola_4/ouruola_4.model3.json"
+    },
+    "pinghai_4": {
+        "name": "pinghai_4",
+        "url": "/live2d/AzurLane/pinghai_4/pinghai_4.model3.json"
+    },
+    "pinghai_6": {
+        "name": "pinghai_6",
+        "url": "/live2d/AzurLane/pinghai_6/pinghai_6.model3.json"
+    },
+    "qianwei_2": {
+        "name": "qianwei_2",
+        "url": "/live2d/AzurLane/qianwei_2/qianwei_2.model3.json"
+    },
+    "qibolin_2": {
+        "name": "qibolin_2",
+        "url": "/live2d/AzurLane/qibolin_2/qibolin_2.model3.json"
+    },
+    "qiershazhi_2": {
+        "name": "qiershazhi_2",
+        "url": "/live2d/AzurLane/qiershazhi_2/qiershazhi_2.model3.json"
+    },
+    "qiye_7": {
+        "name": "qiye_7",
+        "url": "/live2d/AzurLane/qiye_7/qiye_7.model3.json"
+    },
+    "qiye_7_hx": {
+        "name": "qiye_7_hx",
+        "url": "/live2d/AzurLane/qiye_7_hx/qiye_7_hx.model3.json"
+    },
+    "qiye_9": {
+        "name": "qiye_9",
+        "url": "/live2d/AzurLane/qiye_9/qiye_9.model3.json"
+    },
+    "rangbaer_3": {
+        "name": "rangbaer_3",
+        "url": "/live2d/AzurLane/rangbaer_3/rangbaer_3.model3.json"
+    },
+    "rangbaer_4": {
+        "name": "rangbaer_4",
+        "url": "/live2d/AzurLane/rangbaer_4/rangbaer_4.model3.json"
+    },
+    "shengluyisi_2": {
+        "name": "shengluyisi_2",
+        "url": "/live2d/AzurLane/shengluyisi_2/shengluyisi_2.model3.json"
+    },
+    "shengluyisi_2_hx": {
+        "name": "shengluyisi_2_hx",
+        "url": "/live2d/AzurLane/shengluyisi_2_hx/shengluyisi_2_hx.model3.json"
+    },
+    "shengluyisi_3": {
+        "name": "shengluyisi_3",
+        "url": "/live2d/AzurLane/shengluyisi_3/shengluyisi_3.model3.json"
+    },
+    "shengluyisi_4": {
+        "name": "shengluyisi_4",
+        "url": "/live2d/AzurLane/shengluyisi_4/shengluyisi_4.model3.json"
+    },
+    "shengluyisi_5": {
+        "name": "shengluyisi_5",
+        "url": "/live2d/AzurLane/shengluyisi_5/shengluyisi_5.model3.json"
+    },
+    "shitelasai_2": {
+        "name": "shitelasai_2",
+        "url": "/live2d/AzurLane/shitelasai_2/shitelasai_2.model3.json"
+    },
+    "sipeibojue_5": {
+        "name": "sipeibojue_5",
+        "url": "/live2d/AzurLane/sipeibojue_5/sipeibojue_5.model3.json"
+    },
+    "suweiaitongmeng_2": {
+        "name": "suweiaitongmeng_2",
+        "url": "/live2d/AzurLane/suweiaitongmeng_2/suweiaitongmeng_2.model3.json"
+    },
+    "taiyuan_2": {
+        "name": "taiyuan_2",
+        "url": "/live2d/AzurLane/taiyuan_2/taiyuan_2.model3.json"
+    },
+    "tiancheng_3": {
+        "name": "tiancheng_3",
+        "url": "/live2d/AzurLane/tiancheng_3/tiancheng_3.model3.json"
+    },
+    "tianlangxing_3": {
+        "name": "tianlangxing_3",
+        "url": "/live2d/AzurLane/tianlangxing_3/tianlangxing_3.model3.json"
+    },
+    "tierbici_2": {
+        "name": "tierbici_2",
+        "url": "/live2d/AzurLane/tierbici_2/tierbici_2.model3.json"
+    },
+    "weineituo_2": {
+        "name": "weineituo_2",
+        "url": "/live2d/AzurLane/weineituo_2/weineituo_2.model3.json"
+    },
+    "weixi_2": {
+        "name": "weixi_2",
+        "url": "/live2d/AzurLane/weixi_2/weixi_2.model3.json"
+    },
+    "weiyan_2": {
+        "name": "weiyan_2",
+        "url": "/live2d/AzurLane/weiyan_2/weiyan_2.model3.json"
+    },
+    "weiyan_4_hx": {
+        "name": "weiyan_4_hx",
+        "url": "/live2d/AzurLane/weiyan_4_hx/weiyan_4_hx.model3.json"
+    },
+    "weiyan_6": {
+        "name": "weiyan_6",
+        "url": "/live2d/AzurLane/weiyan_6/weiyan_6.model3.json"
+    },
+    "wuerlixi_2": {
+        "name": "wuerlixi_2",
+        "url": "/live2d/AzurLane/wuerlixi_2/wuerlixi_2.model3.json"
+    },
+    "wuerlixi_3": {
+        "name": "wuerlixi_3",
+        "url": "/live2d/AzurLane/wuerlixi_3/wuerlixi_3.model3.json"
+    },
+    "wuqi_2": {
+        "name": "wuqi_2",
+        "url": "/live2d/AzurLane/wuqi_2/wuqi_2.model3.json"
+    },
+    "xianghe_2": {
+        "name": "xianghe_2",
+        "url": "/live2d/AzurLane/xianghe_2/xianghe_2.model3.json"
+    },
+    "xingdengbao_2": {
+        "name": "xingdengbao_2",
+        "url": "/live2d/AzurLane/xingdengbao_2/xingdengbao_2.model3.json"
+    },
+    "xinnong_3": {
+        "name": "xinnong_3",
+        "url": "/live2d/AzurLane/xinnong_3/xinnong_3.model3.json"
+    },
+    "xinnong_3_hx": {
+        "name": "xinnong_3_hx",
+        "url": "/live2d/AzurLane/xinnong_3_hx/xinnong_3_hx.model3.json"
+    },
+    "xinnong_4": {
+        "name": "xinnong_4",
+        "url": "/live2d/AzurLane/xinnong_4/xinnong_4.model3.json"
+    },
+    "xinzexi_3": {
+        "name": "xinzexi_3",
+        "url": "/live2d/AzurLane/xinzexi_3/xinzexi_3.model3.json"
+    },
+    "xixuegui_4": {
+        "name": "xixuegui_4",
+        "url": "/live2d/AzurLane/xixuegui_4/xixuegui_4.model3.json"
+    },
+    "xuefeng": {
+        "name": "xuefeng",
+        "url": "/live2d/AzurLane/xuefeng/xuefeng.model3.json"
+    },
+    "xuefeng_3": {
+        "name": "xuefeng_3",
+        "url": "/live2d/AzurLane/xuefeng_3/xuefeng_3.model3.json"
+    },
+    "xukufu_2": {
+        "name": "xukufu_2",
+        "url": "/live2d/AzurLane/xukufu_2/xukufu_2.model3.json"
+    },
+    "xukufu_3": {
+        "name": "xukufu_3",
+        "url": "/live2d/AzurLane/xukufu_3/xukufu_3.model3.json"
+    },
+    "xukufu_3_hx": {
+        "name": "xukufu_3_hx",
+        "url": "/live2d/AzurLane/xukufu_3_hx/xukufu_3_hx.model3.json"
+    },
+    "yanusi_3": {
+        "name": "yanusi_3",
+        "url": "/live2d/AzurLane/yanusi_3/yanusi_3.model3.json"
+    },
+    "yibei_3": {
+        "name": "yibei_3",
+        "url": "/live2d/AzurLane/yibei_3/yibei_3.model3.json"
+    },
+    "yichui_2": {
+        "name": "yichui_2",
+        "url": "/live2d/AzurLane/yichui_2/yichui_2.model3.json"
+    },
+    "yilishabai_6": {
+        "name": "yilishabai_6",
+        "url": "/live2d/AzurLane/yilishabai_6/yilishabai_6.model3.json"
+    },
+    "yingrui_3": {
+        "name": "yingrui_3",
+        "url": "/live2d/AzurLane/yingrui_3/yingrui_3.model3.json"
+    },
+    "yingxianzuo_3": {
+        "name": "yingxianzuo_3",
+        "url": "/live2d/AzurLane/yingxianzuo_3/yingxianzuo_3.model3.json"
+    },
+    "yunxian_2": {
+        "name": "yunxian_2",
+        "url": "/live2d/AzurLane/yunxian_2/yunxian_2.model3.json"
+    },
+    "z23": {
+        "name": "z23",
+        "url": "/live2d/AzurLane/z23/z23.model3.json"
+    },
+    "z23_hx": {
+        "name": "z23_hx",
+        "url": "/live2d/AzurLane/z23_hx/z23_hx.model3.json"
+    },
+    "z46_2": {
+        "name": "z46_2",
+        "url": "/live2d/AzurLane/z46_2/z46_2.model3.json"
+    },
+    "z46_3": {
+        "name": "z46_3",
+        "url": "/live2d/AzurLane/z46_3/z46_3.model3.json"
+    },
+    "z46_4": {
+        "name": "z46_4",
+        "url": "/live2d/AzurLane/z46_4/z46_4.model3.json"
+    },
+    "zhala_2": {
+        "name": "zhala_2",
+        "url": "/live2d/AzurLane/zhala_2/zhala_2.model3.json"
+    },
+    "zhaohe_3": {
+        "name": "zhaohe_3",
+        "url": "/live2d/AzurLane/zhaohe_3/zhaohe_3.model3.json"
+    }
+}
